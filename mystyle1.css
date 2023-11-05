@@ -1,0 +1,23 @@
+table,tr,th,td
+    {
+        background-color:greenyellow;
+        border:solid 1px;
+    }
+    #search
+    {
+        border-radius: 10%;
+        background-color:gold;
+        font-weight:bold;
+    }
+    body
+    {
+        background-repeat: no-repeat;
+        background-size:1550px 750px;
+        background-color: aquamarine;
+    }
+    h2
+    {
+        font-size: xx-large;
+        color: white;
+        font-size:xx-large
+    }
